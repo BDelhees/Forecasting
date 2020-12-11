@@ -1,1 +1,1 @@
-# Forecasting
+# Forecasting in Economics
